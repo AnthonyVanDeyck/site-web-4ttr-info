@@ -1,0 +1,29 @@
+header
+{color:white;}
+p 
+{color:white;font-family:arial;font-size: 25px;text-align:center}
+body
+{
+ background-image: url("porsche4.png");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+nav
+{
+	float:left;
+	position:center
+}
+footer
+{
+	position:center
+}
+h1
+{color:white;font-family:arial;font-size:40px;text-align:center}
+h2
+{color:red}
+footer
+{
+	color:purple;
+	font-size: 30px
+}
